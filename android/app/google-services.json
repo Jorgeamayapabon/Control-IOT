@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "624176136194",
+    "firebase_url": "https://control-iot-2020.firebaseio.com",
+    "project_id": "control-iot-2020",
+    "storage_bucket": "control-iot-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624176136194:android:312dd9c8a959416860a71b",
+        "android_client_info": {
+          "package_name": "com.example.electric_control_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624176136194-ne7e017igu8qfa9qh3g4r4h9549c70qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electric_control_iot",
+            "certificate_hash": "0eab0a0dd1d5175a455fbb41d536a4e218c02c03"
+          }
+        },
+        {
+          "client_id": "624176136194-ucc369pq92te6cpiq06hhtslhdqolnhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6S51J97te10VJ5Qnj1Ur2iXc4Mda8x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624176136194-ucc369pq92te6cpiq06hhtslhdqolnhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624176136194:android:5c120a161428f62b60a71b",
+        "android_client_info": {
+          "package_name": "com.example.iot_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624176136194-acns7gec23r67f93tdjitddfrmrqohfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot_control",
+            "certificate_hash": "0eab0a0dd1d5175a455fbb41d536a4e218c02c03"
+          }
+        },
+        {
+          "client_id": "624176136194-ucc369pq92te6cpiq06hhtslhdqolnhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6S51J97te10VJ5Qnj1Ur2iXc4Mda8x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624176136194-ucc369pq92te6cpiq06hhtslhdqolnhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
